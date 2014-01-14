@@ -50,8 +50,6 @@
 #include <bosch_drivers_hardware_interface.hpp>
 #include "bmg160_parameters.hpp"
 
-#include <bmg160_driver/bmg160meas.h>
-
 using namespace bosch_drivers_common;
 
 /**
