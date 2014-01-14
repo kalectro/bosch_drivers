@@ -1,0 +1,17 @@
+<package>
+  <name>bmg160_driver</name>
+  <version>0.0.1</version>
+  <description>bmg160_driver</description>
+  <maintainer email="kai@kaifranke.com">Kai Franke</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  
+  <build_depend>roscpp</build_depend>
+  <build_depend>bosch_drivers_common</build_depend>
+  
+  <run_depend>roscpp</run_depend>
+  <run_depend>bosch_drivers_common</run_depend>
+
+</package>
